@@ -1,4 +1,4 @@
-# cyclicstic-bike-share-analysis
+# cyclistic-bike-share-analysis
 
 This repository contains a case study analyzing Cyclistic bike-share data.
 
