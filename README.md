@@ -27,9 +27,3 @@ The main objective of this analysis is to understand how casual riders and annua
 - Classic bikes are the preferred choice for both user groups.
 - Targeted membership promotions during peak summer months could encourage casual riders to convert into annual members.
 
-
-## How to get the data
-1. Click on the [Kaggle dataset page](https://www.kaggle.com/datasets/skyetran66/divvy-cyclistic-data-2024)
-2. Download the dataset manually or using the Kaggle API.
-3. Place the downloaded files in a folder named `data/` at the root of this repository.
-
