@@ -23,7 +23,7 @@ The main objective of this analysis is to understand how casual riders and annua
 - **Jupyter Notebook**: Used for creating and running the case studie, showcasing the data analysis and results in an interactive environment.
 - **R**: Utilized for data manipulation in the case study written in R.
   
-### Key Insights
+### Key Insights 💡:
 - Annual members have a consistent and commuter-focused usage pattern, riding frequently on weekdays with shorter, purpose-driven trips.
 - Casual riders display a seasonal and recreational usage pattern, with peak activity in summer and on weekends, and generally taking longer trips.
 - Classic bikes are the preferred choice for both user groups.
