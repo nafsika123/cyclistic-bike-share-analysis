@@ -18,7 +18,7 @@ The data was sourced from [Cyclistic’s public bike-share data](https://www.kag
 The main objective of this analysis is to understand how casual riders and annual members use Cyclistic bikes differently.
 
 ### Files Included:
-- **`case_study.ipynb`**: Jupyter Notebook containing the full analysis, including data cleaning, visualization, and insights.
+- **`case_study.ipynb`**: Jupyter Notebook containing the full analysis, including data cleaning, visualization, and insights
 
 ### Key Insights
 - Annual members have a consistent and commuter-focused usage pattern, riding frequently on weekdays with shorter, purpose-driven trips.
