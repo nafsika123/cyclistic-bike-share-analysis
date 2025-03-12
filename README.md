@@ -3,7 +3,7 @@
 ### Overview
 This project is a case study analyzing the Cyclistic bike-share dataset using R in a Jupyter Notebook. The primary goal is to explore the differences in usage patterns between casual riders and annual members. By understanding how each group interacts with the bike-share system, we can derive insights that could help improve Cyclistic’s services and user experience.
 
-### Dataset
+### About the Dataset
 The dataset contains information on bike trips, including:
 
 - Trip start and end times
@@ -17,7 +17,8 @@ The data was sourced from [Cyclistic’s public bike-share data](https://www.kag
 
 The main objective of this analysis is to understand how casual riders and annual members use Cyclistic bikes differently.
 
-### Files in This Repository
+### Files Included:
+- **`case_study.ipynb`**: Jupyter Notebook containing the full analysis, including data cleaning, visualization, and insights.
 
 -     case_study.ipynb – The Jupyter Notebook containing the full analysis, including data cleaning, visualization, and insights.
 
